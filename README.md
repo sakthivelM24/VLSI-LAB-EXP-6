@@ -106,4 +106,27 @@ with netlist.
 ![image](https://github.com/sakthivelM24/VLSI-LAB-EXP-6/assets/165649785/7dc8a081-d840-41f0-af65-356c015b6059)
 ![image](https://github.com/sakthivelM24/VLSI-LAB-EXP-6/assets/165649785/e30ee70e-fe9a-4018-a2c1-4f272faaffa4)
 
+# CMOS NAND GATE
+# NAND SCHEMATIC
 
+![image](https://github.com/sakthivelM24/VLSI-LAB-EXP-6/assets/165649785/64965c31-0916-48c0-b914-0e15f0c915f9)
+
+# NAND TEST CELL VIEW
+![image](https://github.com/sakthivelM24/VLSI-LAB-EXP-6/assets/165649785/becc7ea1-86d3-40c7-8d99-8c0551c274a7)
+
+# NAND SIMULATION WITH SPECTRA
+![image](https://github.com/sakthivelM24/VLSI-LAB-EXP-6/assets/165649785/8ce20cf3-1200-45f1-9ef0-2adb3f76cb2a)
+
+# CMOS NOR GATE
+# NOR SCHEMATIC
+![image](https://github.com/sakthivelM24/VLSI-LAB-EXP-6/assets/165649785/d4f98a09-0414-4423-bb7b-3c16c887e057)
+
+# NOR TEST CELL VIEW
+![image](https://github.com/sakthivelM24/VLSI-LAB-EXP-6/assets/165649785/45b87169-b5c0-44b2-8594-6756b2c39042)
+
+# NOR SIMULATION WITH SPECTRA
+![image](https://github.com/sakthivelM24/VLSI-LAB-EXP-6/assets/165649785/5569f397-33ce-4fe8-bd76-ff5ef8f64c66)
+
+
+# RESULT:
+The Implementation of CMOS inverter, CMOS NAND and CMOS NOR gate waveforms are verified.
